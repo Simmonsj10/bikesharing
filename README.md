@@ -38,8 +38,9 @@ Through my analysis of the data set, I've developed 7 insights.
 
 
 ## Summary
-Based on these insights, we know that we have two main customer types (1) subscribers who use bikes to commute and (2) customers who use bikes for leisure activities. With this information, we need to evaluate whether or not Des Moines is a good market for a bike sharing program.
+Based on these insights, we know that we have two main customer types (1) subscribers who use bikes to commute and (2) customers who use bikes for leisure activities. With this information, we understand the New York City market, but we still need to evaluate whether or not Des Moines is a good market for a bike sharing program. To understand this, we need visual data sets to answer the following questions
+
 * Does the city have enough demand for leisure activities?
 * Does the city have enough demand for subscription services?
 
-In order to answer these questions, we will need to evaluate and compare the cities geographical layout, cars per capita, population density, and other factors. By visually comparing the two market areas over these and other criteria, we will have a better understanding of whether or not a bike sharing program would prosper in a smaller market such as Des Moines, IA.
+We could evaluate and compare the (1) cities geographical layout i.e. parks, street maps, etc., (2) cars per capita and distance from residential to commercial areas, (3) population density, and other factors. By visually comparing the two market areas over these and other criteria, we will have a better understanding of whether or not a bike sharing program would prosper in a smaller market such as Des Moines, IA.
