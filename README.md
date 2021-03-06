@@ -7,26 +7,26 @@ I have analyzed (August, 2019) data that provides insights on customer & product
 ## Results
 Through my analysis of the data set, I've developed 7 insights.
 1. Almost all bile rides are under an hour. The majority of these rides last less than 30 minutes.
-![Images/R1.png](R1.png)
+![R1.png](Images/R1.png)
 
 2. The majority of users exhibit commuter behavior using ride bikes during rush hour periods (M - F, 8a & 5p - 6p).
-![Images/R2.png](R2.png)
+![R2.png](Images/R2.png)
 3. Although males comprise the majority of our riders, males and female trip durations have the same usage.
-![Images/R3.png](R3.png)
+![R3.png](Images/R3.png)
 
 4. Male & Female users both tend use our products during the rush hour periods. Unknown gender users have a more uniform distribution, but a propensity to use our products on weekends.
-![Images/R4.png](R4.png)
+![R4.png](Images/R4.png)
 
 5. Users with gender data tend to be subscribers who use our products for commuting purposes. Whereas unknown gendered users tend to be 1 time customers who use product for leisure weekend activities.
-![Images/R5.png](R5.png)
+![R5.png](Images/R5.png)
 
 6. Customers and Subscribers gravitate to different starting points.
-![Images/R6.png](R6.png)
+![R6.png](Images/R6.png)
 
 7. Customers tend to go for longer rides than subscribers. Many of these Customers tend to start in central park.
-![Images/R7a.png](R7a.png)
-![Images/R7b.png](R7b.png)
-![Images/R7c.png](R7c.png)
+![R7a.png](Images/R7a.png)
+![R7b.png](Images/R7b.png)
+![R7c.png](Images/R7c.png)
 
 
 ## Summary
