@@ -6,25 +6,32 @@ I have analyzed (August, 2019) data that provides insights on customer & product
 
 ## Results
 Through my analysis of the data set, I've developed 7 insights.
-1. Almost all bile rides are under an hour. The majority of these rides last less than 30 minutes.
+
+#### 1. Almost all bile rides are under an hour. The majority of these rides last less than 30 minutes.
 ![R1.png](Images/R1.png)
 
-2. The majority of users exhibit commuter behavior using ride bikes during rush hour periods (M - F, 8a & 5p - 6p).
+
+#### 2. The majority of users exhibit commuter behavior using ride bikes during rush hour periods (M - F, 8a & 5p - 6p).
 ![R2.png](Images/R2.png)
 
-3. Although males comprise the majority of our riders, males and female trip durations have the same usage pattern. Unknown users have a different trip duration pattern, which suggests a different customer type and use case.
+
+#### 3. Although males comprise the majority of our riders, males and female trip durations have the same usage pattern. Unknown users have a different trip duration pattern, which suggests a different customer type and use case.
 ![R3.png](Images/R3.png)
 
-4. Male & Female users both tend use our products during the rush hour periods. Unknown gender users have a more uniform distribution, but a propensity to use our products on weekends.
+
+#### 4. Male & Female users both tend use our products during the rush hour periods. Unknown gender users have a more uniform distribution, but a propensity to use our products on weekends.
 ![R4.png](Images/R4.png)
 
-5. Users with gender data tend to be subscribers who use our products for commuting purposes. Whereas unknown gendered users tend to be 1 time customers who use product for leisure weekend activities.
+
+#### 5. Users with gender data tend to be subscribers who use our products for commuting purposes. Whereas unknown gendered users tend to be 1 time customers who use product for leisure weekend activities.
 ![R5.png](Images/R5.png)
 
-6. Customers and Subscribers gravitate to different starting points.
+
+#### 6. Customers and Subscribers gravitate to different starting points.
 ![R6.png](Images/R6.png)
 
-7. Customers tend to go for longer rides than subscribers. Many of these Customers tend to start in central park.
+
+#### 7. Customers tend to go for longer rides than subscribers. Many of these Customers tend to start in central park.
 ![R7a.png](Images/R7a.png)
 ![R7b.png](Images/R7b.png)
 ![R7c.png](Images/R7c.png)
