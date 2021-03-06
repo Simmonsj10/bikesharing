@@ -11,7 +11,8 @@ Through my analysis of the data set, I've developed 7 insights.
 
 2. The majority of users exhibit commuter behavior using ride bikes during rush hour periods (M - F, 8a & 5p - 6p).
 ![R2.png](Images/R2.png)
-3. Although males comprise the majority of our riders, males and female trip durations have the same usage.
+
+3. Although males comprise the majority of our riders, males and female trip durations have the same usage pattern. Unknown users have a different trip duration pattern, which suggests a different customer type and use case.
 ![R3.png](Images/R3.png)
 
 4. Male & Female users both tend use our products during the rush hour periods. Unknown gender users have a more uniform distribution, but a propensity to use our products on weekends.
