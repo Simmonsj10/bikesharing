@@ -35,4 +35,4 @@ Based on these insights, we know that we have two main customer types (1) subscr
 * Does the city have enough demand for leisure activities?
 * Does the city have enough demand for subscription services?
 
-In order to answer these questions, we will need to evaluate and compare the cities geographical layout, cars per capita, population density, and other factors. Comparing the two market areas over these and other criteria will allow us to know if a bike sharing program would prosper in a smaller market such as Des Moines, IA.
+In order to answer these questions, we will need to evaluate and compare the cities geographical layout, cars per capita, population density, and other factors. By visually comparing the two market areas over these and other criteria, we will have a better understanding of whether or not a bike sharing program would prosper in a smaller market such as Des Moines, IA.
