@@ -1,6 +1,8 @@
 # bikesharing
 Author: Jerome Simmons
 
+[link to dashboard] (https://public.tableau.com/shared/Y9KD5C9NS?:display_count=y&:origin=viz_share_link)
+
 ## Overview of the Analysis
 I have analyzed (August, 2019) data that provides insights on customer & product usage data from a bike sharing program in New York City. I have produced several visualizations using tableau in order to provide insights that might be applied to a bike sharing start up concept in Des Moines, IA.
 
